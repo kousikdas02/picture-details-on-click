@@ -1,0 +1,13 @@
+.card-body figure{
+    display: flex;
+    justify-content: center;
+}
+
+.common_wapper{
+    padding: 50px 0;
+}
+.loadMore_btn{
+    display: inline-block;
+    max-width: 200px;
+    margin: 0 auto;
+}
